@@ -39,10 +39,6 @@ sidebar:
       - item: 
         link:
 
-career-profile:
-    title: Career Profile
-    summary: |
-
 education:
     - degree: 석사
       university: 연세대학교 일반대학원 수학과
@@ -99,6 +95,10 @@ publications:
         authors: 이태규
         conference: 2021년 RISS 게재
 
+career-profile:
+    title: Certifications
+    summary: |
+      - ADsP
 
 skills:
     title: Skills &amp; Proficiency
