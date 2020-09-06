@@ -84,7 +84,7 @@ projects:
       - title: Kaggle - Titanic
         link: "https://romanticq.github.io/categories/#%EC%BA%90%EA%B8%80"
         tagline: "승객들의 신상정보 데이터를 기반으로 한 생존자 예측 모델 생성 및 튜닝"
-          - Technology : Random Forest | Python
+        
         
       
       - title: 21대 한국 총선 분석
