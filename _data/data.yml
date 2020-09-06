@@ -76,19 +76,22 @@ experiences:
       time: 2018 - Present
       company: 연세대학교(미래) 수학과
       details: |
-        Describe your role
-          - Bullet point
-          - Bullet point
+          - 전공(미적분, 선형대수, 대수학, 해석학 등) 연습 시간 강의
+          
     
 projects:
     title: Projects
     intro: >
-      #You can list your side projects or open source libraries in this
-      #section.
+      
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Kaggle - Titanic
+        link: "https://romanticq.github.io/categories/#%EC%BA%90%EA%B8%80"
+        tagline: "승객들의 신상정보 데이터를 기반으로 한 생존자 예측 모델 생성"
+        
+      
+      - title: 21대 한국 총선 분석
+        link: "https://github.com/romanticq/MSpaper"
+        tagline: "텍스트마이닝 기법을 이용한 21대 한국 총선 관련 이슈파악 및 후보자 득표율 예측"
 
 
 publications:
@@ -96,20 +99,11 @@ publications:
     intro: |
 
     papers:
-      - title: The Art of Computer Programming
+      - title: 텍스트 마이닝을 이용한 2020년 한국 총선 분석
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: 이태규
+        conference: 2021년 RISS 게재
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
@@ -120,6 +114,9 @@ skills:
 
       - name: Microsoft Excel
         level: 90%
+        
+      - name: Wolfram Mathematica
+        level: 80%
 
 
 footer: >
