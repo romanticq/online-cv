@@ -7,42 +7,42 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: 이태규
+    tagline: 
+    avatar: selfie.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: romantic_q@naver.com
+    phone: 010-7119-1987
+    website: romanticq.github.io #do not add http://
+    linkedin: 
+    github: romanticq
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
-        level: Native
+      - idiom: 
+        level: 
 
-      - idiom: French
-        level: Professional
+      - idiom: 
+        level: 
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: 
+        level: 
 
     interests:
-      - item: Climbing
+      - item: 
         link:
 
-      - item: Snowboarding
+      - item: 
         link:
 
-      - item: Cooking
+      - item: 
         link:
 
 career-profile:
@@ -55,9 +55,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: 석사
+      university: 연세대학교 일반대학원 수학과
+      time: 2018.03 - 2021.02
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -66,9 +66,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: 학사
+      university: 연세대학교(미래) 수학과
+      time: 2012.03 - 2018.02
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -78,8 +78,8 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
+    - role: 연구조교
+      time: 2018 - Present
       company: Startup Hubs, San Francisco
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -168,23 +168,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Python
         level: 60%
+
+      - name: Microsoft Excel
+        level: 90%
+
+      - name: 
+        level: 
+
+      - name: 
+        level: 
+
+      - name: 
+        level: 
+
+      - name: 
+        level: 
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
