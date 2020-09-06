@@ -81,19 +81,19 @@ projects:
     intro: >
       
     assignments:
-      - title: Kaggle - Titanic1 : 생존자 예측 모델 생성
+      - title: "Kaggle - Titanic1 : 생존자 예측 모델 생성"
         link: "https://romanticq.github.io/%EC%BA%90%EA%B8%80/kaggle-titanic/"
         tagline: "승객들의 신상정보 데이터를 기반으로 scikit-learn을 통해 생존자 예측 모델 생성"
         
-      - title: Kaggle - Titanic2 : 하이퍼 파라미터 튜닝
+      - title: "Kaggle - Titanic2 : 하이퍼 파라미터 튜닝"
         link: "https://romanticq.github.io/%EC%BA%90%EA%B8%80/kaggle-titanic2/"
         tagline: "scikit-learn을 통해 생성한 모델의 하이퍼 파라미터 튜닝 방법"        
         
-      - title: Kaggle - Titanic3 : 핸즈온 머신러닝 chap2
+      - title: "Kaggle - Titanic3 : 핸즈온 머신러닝 chap2"
         link: "https://romanticq.github.io/%EC%BA%90%EA%B8%80/handson-chap2-titanic/"
         tagline: "min-max scaling | standardization | one-hot encoding | k-fold cross-validation"
         
-      - title: Kaggle - Titanic4 : 핸즈온 머신러닝 chap6
+      - title: "Kaggle - Titanic4 : 핸즈온 머신러닝 chap6"
         link: "https://romanticq.github.io/%EC%BA%90%EA%B8%80/handson-chap6-titanic/"
         tagline: "Decision Tree | CART | regularization"        
         
