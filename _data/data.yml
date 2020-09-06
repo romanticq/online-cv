@@ -62,6 +62,12 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+          
+career-profile:
+    title: Career Profile
+    summary: |
+      
+
 experiences:
     - role: 연구조교
       time: 2018 - Present
@@ -77,7 +83,8 @@ projects:
     assignments:
       - title: Kaggle - Titanic
         link: "https://romanticq.github.io/categories/#%EC%BA%90%EA%B8%80"
-        tagline: "승객들의 신상정보 데이터를 기반으로 한 생존자 예측 모델 생성"
+        tagline: "승객들의 신상정보 데이터를 기반으로 한 생존자 예측 모델 생성 및 튜닝"
+          - Technology : Random Forest | Python
         
       
       - title: 21대 한국 총선 분석
@@ -95,10 +102,6 @@ publications:
         authors: 이태규
         conference: 2021년 RISS 게재
 
-career-profile:
-    title: Certifications
-    summary: |
-      - ADsP
 
 skills:
     title: Skills &amp; Proficiency
