@@ -97,27 +97,27 @@ projects:
         link: "https://romanticq.github.io/%EC%BA%90%EA%B8%80/handson-chap6-titanic/"
         tagline: "Decision Tree | CART | regularization"        
         
-      - title: Kaggle - Titanic4 : 핸즈온 머신러닝 chap7
+      - title: "Kaggle - Titanic4 : 핸즈온 머신러닝 chap7"
         link: "https://romanticq.github.io/%EC%BA%90%EA%B8%80/handson-chap7-titanic/"
         tagline: "voting | bagging & pasting | Random Forest | boosting"
         
-      - title: Text Mining 1 : 데이터 전처리
+      - title: "Text Mining 1 : 데이터 전처리"
         link: "https://romanticq.github.io/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/text-data/"
         tagline: "Regular Expression | stopwords | stemming | N-gram"        
         
-      - title: Text Mining 2 : 빈도분석, 군집분석, 토픽 모델링
+      - title: "Text Mining 2 : 빈도분석, 군집분석, 토픽 모델링"
         link: "https://romanticq.github.io/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/text-mining-tech/"
         tagline: "Frequency Analysis | Clustering | Topic Modeling(LDA)"                
         
-      - title: Text Mining 3 : 감성분석
+      - title: "Text Mining 3 : 감성분석"
         link: "https://romanticq.github.io/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/text-mining-tech2/"
         tagline: "Sentiment Analysis"                        
         
-      - title: Text Mining 4 : 연관어분석
+      - title: "Text Mining 4 : 연관어분석"
         link: "https://romanticq.github.io/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/text-mining-tech3/"
         tagline: "Related words Analysis"                                
       
-      - title: Analysis of the 2020 Korean General Election Using Text Mining Techniques(텍스트 마이닝을 이용한 2020년 한국 총선 분석)
+      - title: "Analysis of the 2020 Korean General Election Using Text Mining Techniques(텍스트 마이닝을 이용한 2020년 한국 총선 분석)"
         link: "#"
         tagline: "2021년 RISS 게재"
           
