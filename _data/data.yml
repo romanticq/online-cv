@@ -90,7 +90,7 @@ projects:
       - title: 21대 한국 총선 분석
         link: "https://github.com/romanticq/MSpaper"
         tagline: "텍스트마이닝 기법을 이용한 21대 한국 총선 관련 이슈파악 및 후보자 득표율 예측"
-          - Technology : 빈도분석 | 감성분석 | 연관어분석 | 토픽모델링 | Python
+            - Technology : 빈도분석 | 감성분석 | 연관어분석 | 토픽모델링 | Python
 
 
 publications:
