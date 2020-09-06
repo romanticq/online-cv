@@ -141,8 +141,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
-        level: 60%
+      - name: Pandas
+        level: 80%
+        
+      - name: Scikit-learn
+        level: 60%        
+        
+      - name: gensim
+        level: 60%        
+        
+      - name: nltk
+        level: 60%      
 
       - name: Microsoft Excel
         level: 90%
