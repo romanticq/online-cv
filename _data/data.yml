@@ -143,6 +143,16 @@ publications:
         link: "https://github.com/romanticq/MSpaper"
 
 
+publications:
+    title: Publications
+    intro: |
+
+    papers:
+      - title: Kaggle - Titanic
+        link: "https://romanticq.github.io/categories/#%EC%BA%90%EA%B8%80"
+        authors:
+        conference:
+
 
 
 skills:
