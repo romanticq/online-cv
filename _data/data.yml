@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: 이태규
@@ -63,14 +63,20 @@ education:
           - Bullet point
           - Bullet point
           
-career-profile:
-    title: Career Profile
-    summary: |
+experiences:
+    title: education
+    - role: 석사
+      time: 2018.03 - 2021.02
+      company: 연세대학교 일반대학원 수학과
+      
+    - role: 학사
+      time: 2012.03 - 2018.02
+      company: 연세대학교(미래) 수학과
       
 
 experiences:
     - role: 연구조교
-      time: 2018 - Present
+      time: 2019 - Present
       company: 연세대학교(미래) 수학과
       details: |
           - 전공(미적분, 선형대수, 대수학, 해석학 등) 연습 시간 강의
