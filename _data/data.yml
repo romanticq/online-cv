@@ -71,51 +71,45 @@ experiences:
           - Random Forest
           
 
-publications:
-    title: Projects
-    intro: |
-
-    papers:
-      - title: Kaggle - Titanic
-        link: "https://romanticq.github.io/categories/#%EC%BA%90%EA%B8%80"
-        authors:
-        details: |
-          Kaggle - Titanic의 승객 데이터를 통한 Classification 문제 해결 & 여러 머신러닝 기법 적용
-            - tech
-            - library
-        
-        
-      - title: Kaggle - Titanic
-        link: "https://romanticq.github.io/categories/#%EC%BA%90%EA%B8%80"
-        authors:
-        conference:
-      
-      - title: 텍스트마이닝 기법을 이용한 21대 한국 총선 관련 이슈파악 및 후보자 득표율 예측
-        link: "https://github.com/romanticq/MSpaper"
-
-
-
-
 projects:
-    title: Publications
+    title: Projects
     intro: >
       
     assignments:
+      - title: "Kaggle - Titanic"
+        link: "https://romanticq.github.io/categories/#%EC%BA%90%EA%B8%80"
+        tagline: "Kaggle - Titanic의 승객 데이터를 통한 Classification 문제 해결 & 여러 머신러닝 기법 적용"    
+        details: |
+          - 목차 : PART 1 ~ PART 5
+    
       - title: "Kaggle - Titanic : [PART 1] 생존자 예측 모델 생성"
         link: "https://romanticq.github.io/%EC%BA%90%EA%B8%80/kaggle-titanic/"
         tagline: "승객들의 신상정보 데이터를 기반으로 scikit-learn을 통해 생존자 예측 모델 생성"
+        details : |
+          - Technology : Decision Tree
+          - Library : Pandas | Scikit-learn | Numpy | Matplotbib | seaborn
         
       - title: "Kaggle - Titanic : [PART 2] 하이퍼 파라미터 튜닝"
         link: "https://romanticq.github.io/%EC%BA%90%EA%B8%80/kaggle-titanic2/"
         tagline: "scikit-learn을 통해 생성한 모델의 하이퍼 파라미터 튜닝 방법 정리"
+        details : |
+          - Technology : Decision Tree | Min-Max scaling | Standardization | Regularization | Correlation coefficient
+          - Library : Pandas | Scikit-learn | Numpy | Matplotbib
+          
         
       - title: "Kaggle - Titanic : [PART 3] 핸즈온 머신러닝 chap2"
         link: "https://romanticq.github.io/%EC%BA%90%EA%B8%80/handson-chap2-titanic/"
-        tagline: "min-max scaling | standardization | one-hot encoding | k-fold cross-validation | ROC Curve"
+        tagline: "핸즈온 머신러닝 챕터2 순서에 맞춰 캐글-타이타닉 문제 재구성"
+        details: |
+          - Technology : min-max scaling | standardization | one-hot encoding | k-fold cross-validation | ROC Curve
+          - Library : Pandas | Scikit-learn | Numpy | Matplotbib
         
       - title: "Kaggle - Titanic : [PART 4] 핸즈온 머신러닝 chap6"
         link: "https://romanticq.github.io/%EC%BA%90%EA%B8%80/handson-chap6-titanic/"
-        tagline: "Decision Tree | CART | regularization"        
+        tagline: "핸즈온 머신러닝 챕터6 순서에 맞춰 캐글-타이타닉 문제 재구성"
+        details: |
+          - Technology : Decision Tree | CART | regularization | Visualization
+          - Library : Pandas | Scikit-learn | Numpy | Graphviz
         
       - title: "Kaggle - Titanic : [PART 5] 핸즈온 머신러닝 chap7"
         link: "https://romanticq.github.io/%EC%BA%90%EA%B8%80/handson-chap7-titanic/"
@@ -140,6 +134,31 @@ projects:
       - title: "Analysis of the 2020 Korean General Election Using Text Mining Techniques(텍스트 마이닝을 이용한 2020년 한국 총선 분석)"
         link: "#"
         tagline: "2021년 RISS 게재"
+
+
+publications:
+    title: Publications
+    intro: |
+    papers:
+      - title: Kaggle - Titanic
+        link: "https://romanticq.github.io/categories/#%EC%BA%90%EA%B8%80"
+        authors:
+        details: |
+          Kaggle - Titanic의 승객 데이터를 통한 Classification 문제 해결 & 여러 머신러닝 기법 적용
+            - tech
+            - library
+        
+        
+      - title: Kaggle - Titanic
+        link: "https://romanticq.github.io/categories/#%EC%BA%90%EA%B8%80"
+        authors:
+        conference:
+      
+      - title: 텍스트마이닝 기법을 이용한 21대 한국 총선 관련 이슈파악 및 후보자 득표율 예측
+        link: "https://github.com/romanticq/MSpaper"
+
+
+
 
 
 
