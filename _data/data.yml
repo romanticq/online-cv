@@ -79,10 +79,10 @@ publications:
       - title: Kaggle - Titanic
         link: "https://romanticq.github.io/categories/#%EC%BA%90%EA%B8%80"
         authors:
-        conference: Kaggle - Titanic의 승객 데이터를 통한 Classification 문제 해결 & 여러 머신러닝 기법 적용
-    
-    
-    
+        details: |
+          Kaggle - Titanic의 승객 데이터를 통한 Classification 문제 해결 & 여러 머신러닝 기법 적용
+            - tech
+            - library
         
         
       - title: Kaggle - Titanic
