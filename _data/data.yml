@@ -93,7 +93,7 @@ projects:
         link: "https://romanticq.github.io/%EC%BA%90%EA%B8%80/kaggle-titanic2/"
         tagline: "scikit-learn을 통해 생성한 모델의 하이퍼 파라미터 튜닝 방법 정리"
         details : |
-          - Technology : Decision Tree || Min-Max scaling || Standardization || Regularization || Correlation coefficient
+          - Technology : Decision Tree ★ Min-Max scaling ★ Standardization ★ Regularization ★ Correlation coefficient
           - Library : Pandas || Scikit-learn || Numpy || Matplotbib
           
         
