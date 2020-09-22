@@ -83,6 +83,9 @@ publications:
     
       - title: Kaggle - Titanic : [PART 1] 생존자 예측 모델 생성
         link: "https://romanticq.github.io/%EC%BA%90%EA%B8%80/kaggle-titanic/"
+        authors:
+        conference: Kaggle - Titanic의 승객 데이터를 통한 Classification 문제 해결 & 여러 머신러닝 기법 적용        
+        
         
       - title: Kaggle - Titanic
         link: "https://romanticq.github.io/categories/#%EC%BA%90%EA%B8%80"
