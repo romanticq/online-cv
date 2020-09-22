@@ -108,10 +108,10 @@ projects:
         link: "https://romanticq.github.io/%EC%BA%90%EA%B8%80/handson-chap6-titanic/"
         details: |
           핸즈온 머신러닝 챕터6 순서에 맞춰 캐글-타이타닉 문제 재구성
-          ```
+          ***
           - <strong>Technology :</strong> Decision Tree | CART | regularization | Visualization
           - **Library :** Pandas | Scikit-learn | Numpy | Graphviz
-          ```
+          ***
         
       - title: "Kaggle - Titanic : [PART 5] 핸즈온 머신러닝 chap7"
         link: "https://romanticq.github.io/%EC%BA%90%EA%B8%80/handson-chap7-titanic/"
