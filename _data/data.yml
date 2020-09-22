@@ -101,8 +101,8 @@ projects:
         link: "https://romanticq.github.io/%EC%BA%90%EA%B8%80/handson-chap2-titanic/"
         tagline: "핸즈온 머신러닝 챕터2 순서에 맞춰 캐글-타이타닉 문제 재구성"
         details: |
-          - Technology : min-max scaling | standardization | one-hot encoding | k-fold cross-validation | ROC Curve
-          - Library : Pandas | Scikit-learn | Numpy | Matplotbib
+          - Technology : min-max scaling / standardization / one-hot encoding / k-fold cross-validation / ROC Curve
+          - Library : Pandas / Scikit-learn / Numpy / Matplotbib
         
       - title: "Kaggle - Titanic : [PART 4] 핸즈온 머신러닝 chap6"
         link: "https://romanticq.github.io/%EC%BA%90%EA%B8%80/handson-chap6-titanic/"
