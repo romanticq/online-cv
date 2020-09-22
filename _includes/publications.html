@@ -24,7 +24,14 @@
       <li>{{ publication.title }}</li>
     {% endif %}
     <div class="publication-authors">{{ publication.authors }}</div>
-    <div class="publication-conference">{{ publication.conference | markdownify }}</div>
+    <div class="publication-conference">{{ publication.conference }}</div>
+    
+    {% if publication.details %}
+    <div class="details">
+      {{ publication.details | markdownify }}
+    </div><!--//details-->
+    {% endif %}    
+    
   </div><!--//item-->
   {% endfor %}
 
