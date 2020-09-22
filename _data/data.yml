@@ -40,7 +40,7 @@ sidebar:
 
 education:
     - degree: 석사
-      university: 연세대학교 일반대학원 수학과
+      university: 연세대학교 일반대학원 수학계산학부(수학) │ Financial Mathematics lab
       time: 2018.03 - 2021.02
       details: |
 
@@ -64,8 +64,8 @@ experiences:
       details: | 
         발표 내용
           - Kaggle 생존자 예측 모델 생성
-          - ROC Curve
-          - Normal equation
+          - [ROC Curve](https://youtu.be/TF1PJAndiNM)
+          - [Normal equation](https://youtu.be/5WvjUjnP26E)
           - Decision Tree
           - Random Forest
           
@@ -155,10 +155,10 @@ skills:
       - name: Matplotlib
         level: 70%        
         
-      - name: gensim
+      - name: Gensim
         level: 60%        
         
-      - name: nltk
+      - name: Nltk
         level: 60%      
 
       - name: Microsoft Excel
