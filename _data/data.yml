@@ -85,8 +85,8 @@ projects:
       - title: "Kaggle - Titanic : [PART 1] 생존자 예측 모델 생성"
         link: "https://romanticq.github.io/%EC%BA%90%EA%B8%80/kaggle-titanic/"
         tagline: "승객들의 신상정보 데이터를 기반으로 scikit-learn을 통해 생존자 예측 모델 생성"
-        details : |
-          - "Technology : Decision Tree"
+        details :
+          - "Technology : Decision Tree
           - "Library : Pandas | Scikit-learn | Numpy | Matplotbib | seaborn"
         
       - title: "Kaggle - Titanic : [PART 2] 하이퍼 파라미터 튜닝"
