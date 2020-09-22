@@ -63,9 +63,9 @@ experiences:
       company: https://github.com/yonseimath/data-science-2020
       details: | 
         발표 내용
+          - [<U>Normal equation</U>](https://youtu.be/5WvjUjnP26E)
+          - [<U>ROC Curve</U>](https://youtu.be/TF1PJAndiNM)
           - Kaggle 생존자 예측 모델 생성
-          - [ROC Curve](https://youtu.be/TF1PJAndiNM)
-          - [Normal equation](https://youtu.be/5WvjUjnP26E)
           - Decision Tree
           - Random Forest
           
