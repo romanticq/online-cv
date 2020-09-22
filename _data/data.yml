@@ -84,8 +84,9 @@ publications:
       - title: Kaggle - Titanic : [PART 1] 생존자 예측 모델 생성
         link: "https://romanticq.github.io/%EC%BA%90%EA%B8%80/kaggle-titanic/"
         authors:
-        conference: 승객들의 신상정보 데이터를 기반으로 scikit-learn을 통해 생존자 예측 모델 생성
-        conference: 
+        conference:
+          - 승객들의 신상정보 데이터를 기반으로 scikit-learn을 통해 생존자 예측 모델 생성
+          - tech
         
       - title: Kaggle - Titanic
         link: "https://romanticq.github.io/categories/#%EC%BA%90%EA%B8%80"
