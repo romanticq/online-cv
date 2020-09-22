@@ -77,10 +77,9 @@ projects:
     assignments:
       - title: "Analysis of the 2020 Korean General Election Using Text Mining Techniques"
         link: "https://github.com/romanticq/MSpaper"
-        tagline: "2021년 RISS 게재"
         details: |
-          텍스트 마이닝을 이용한 2020년 한국 총선 분석
-          - **Technology :** Web crawling │ Frequency analysis │ Sentiment Analysis │ Related words Analysis | Topic modeling
+          텍스트 마이닝을 이용한 2020년 한국 총선 분석(2021년 RISS 게재)
+          - **Technology :** Web crawling │ Frequency analysis │ Sentiment Analysis │ Related words Analysis │ Topic modeling
           - **Library :** Konlpy │ Beautiful soap │ Selenium │ Pandas │ Numpy | Matplotlib
     
       - title: "Kaggle - Titanic : [PART 1] 생존자 예측 모델 생성"
@@ -116,7 +115,7 @@ projects:
         link: "https://romanticq.github.io/%EC%BA%90%EA%B8%80/handson-chap7-titanic/"
         details: |
           핸즈온 머신러닝 챕터7 순서에 맞춰 캐글-타이타닉 문제 재구성
-          - **Technology :** : voting │ bagging & pasting │ Random Forest │ boosting
+          - **Technology :**  voting │ bagging & pasting │ Random Forest │ boosting
           - **Library :** Pandas │ Scikit-learn │ Numpy │ Matplotbib
         
 
@@ -126,20 +125,20 @@ publications:
     papers:
       - title: "Text Mining : 감성분석"
         link: "https://romanticq.github.io/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/text-mining-tech2/"
-        conference: Nltk │ Afinn │ pandas | Numpy | Matplotlib
+        conference: "Library : Nltk │ Afinn │ Pandas | Numpy | Matplotlib"
         
       - title: "Text Mining : 빈도분석, 군집분석, 토픽 모델링"
         link: "https://romanticq.github.io/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/text-mining-tech/"
         authors:
-        conference:
+        conference: "Library : Nltk │ Konlpy │ Gensim │ Scikit-learn │ Pandas | Numpy | Matplotlib"
 
       - title: "Text Mining : 연관어분석"
         link: "https://romanticq.github.io/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/text-mining-tech3/"
+        conference: "Library : Nltk │ Afinn │ Scikit-learn │ Pandas | Numpy | Matplotlib"
         
       - title: "Text Mining : 데이터 전처리"
         link: "https://romanticq.github.io/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/text-data/"
-
-
+        conference: "Library : Nltk │ Konlpy"
 
 
 
@@ -151,7 +150,10 @@ skills:
         level: 80%
         
       - name: Scikit-learn
-        level: 60%        
+        level: 70%        
+        
+      - name: Matplotlib
+        level: 70%        
         
       - name: gensim
         level: 60%        
