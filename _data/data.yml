@@ -73,27 +73,31 @@ experiences:
           
     
 projects:
-    title: Publications
+    title: Projects
     intro: >
       
     assignments:
-      - title: "Kaggle - Titanic1 : 생존자 예측 모델 생성"
+      - title: "Kaggle - Titanic"
+        link: "https://romanticq.github.io/categories/#%EC%BA%90%EA%B8%80"
+        tagline: "Kaggle - Titanic의 승객 데이터를 통한 Classification 문제 해결 & 여러 머신러닝 기법 적용"
+    
+      - title: "Kaggle - Titanic : [PART 1] 생존자 예측 모델 생성"
         link: "https://romanticq.github.io/%EC%BA%90%EA%B8%80/kaggle-titanic/"
         tagline: "승객들의 신상정보 데이터를 기반으로 scikit-learn을 통해 생존자 예측 모델 생성"
         
-      - title: "Kaggle - Titanic2 : 하이퍼 파라미터 튜닝"
+      - title: "Kaggle - Titanic : [PART 2] 하이퍼 파라미터 튜닝"
         link: "https://romanticq.github.io/%EC%BA%90%EA%B8%80/kaggle-titanic2/"
-        tagline: "scikit-learn을 통해 생성한 모델의 하이퍼 파라미터 튜닝 방법"        
+        tagline: "scikit-learn을 통해 생성한 모델의 하이퍼 파라미터 튜닝 방법 정리"
         
-      - title: "Kaggle - Titanic3 : 핸즈온 머신러닝 chap2"
+      - title: "Kaggle - Titanic : [PART 3] 핸즈온 머신러닝 chap2"
         link: "https://romanticq.github.io/%EC%BA%90%EA%B8%80/handson-chap2-titanic/"
-        tagline: "min-max scaling | standardization | one-hot encoding | k-fold cross-validation"
+        tagline: "min-max scaling | standardization | one-hot encoding | k-fold cross-validation | ROC Curve"
         
-      - title: "Kaggle - Titanic4 : 핸즈온 머신러닝 chap6"
+      - title: "Kaggle - Titanic : [PART 4] 핸즈온 머신러닝 chap6"
         link: "https://romanticq.github.io/%EC%BA%90%EA%B8%80/handson-chap6-titanic/"
         tagline: "Decision Tree | CART | regularization"        
         
-      - title: "Kaggle - Titanic4 : 핸즈온 머신러닝 chap7"
+      - title: "Kaggle - Titanic : [PART 5] 핸즈온 머신러닝 chap7"
         link: "https://romanticq.github.io/%EC%BA%90%EA%B8%80/handson-chap7-titanic/"
         tagline: "voting | bagging & pasting | Random Forest | boosting"
         
@@ -120,10 +124,15 @@ projects:
 
 
 publications:
-    title: Projects
+    title: Publications
     intro: |
 
     papers:
+      - title: Kaggle - Titanic
+        link: "https://romanticq.github.io/categories/#%EC%BA%90%EA%B8%80"
+        authors:
+        conference:
+        
       - title: Kaggle - Titanic
         link: "https://romanticq.github.io/categories/#%EC%BA%90%EA%B8%80"
         authors:
