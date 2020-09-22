@@ -88,6 +88,7 @@ projects:
           승객들의 신상정보 데이터를 기반으로 scikit-learn을 통해 생존자 예측 모델 생성
           - <strong>Technology :</strong> Decision Tree
           - <strong>Library :</strong> Pandas │ Scikit-learn │ Numpy │ Matplotbib │ seaborn
+          ---
         
       - title: "Kaggle - Titanic : [PART 2] 하이퍼 파라미터 튜닝"
         link: "https://romanticq.github.io/%EC%BA%90%EA%B8%80/kaggle-titanic2/"
