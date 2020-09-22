@@ -124,19 +124,19 @@ publications:
     title: Publications
     intro: |
     papers:
-      - title: Text Mining : 감성분석
+      - title: "Text Mining : 감성분석"
         link: "https://romanticq.github.io/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/text-mining-tech2/"
         conference: **Library :** Nltk │ Afinn │ pandas | Numpy | Matplotlib
         
-      - title: Text Mining : 빈도분석, 군집분석, 토픽 모델링
+      - title: "Text Mining : 빈도분석, 군집분석, 토픽 모델링"
         link: "https://romanticq.github.io/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/text-mining-tech/"
         authors:
         conference:
 
-      - title: Text Mining : 연관어분석
+      - title: "Text Mining : 연관어분석"
         link: "https://romanticq.github.io/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/text-mining-tech3/"
         
-      - title: Text Mining : 데이터 전처리
+      - title: "Text Mining : 데이터 전처리"
         link: "https://romanticq.github.io/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/text-data/"
 
 
