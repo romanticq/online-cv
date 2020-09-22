@@ -26,11 +26,10 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: 
-        level: 
+      - idiom: Python
 
     interests:
-      - item: 
+      - item: 자연어처리 │ TensorFlow │ Pytorch
         link:
 
       - item: 
@@ -76,53 +75,57 @@ projects:
     intro: >
       
     assignments:
-      - title: "Kaggle - Titanic"
-        link: "https://romanticq.github.io/categories/#%EC%BA%90%EA%B8%80"    
+      - title: "Analysis of the 2020 Korean General Election Using Text Mining Techniques"
+        link: "https://github.com/romanticq/MSpaper"
+        tagline: "2021년 RISS 게재"
         details: |
-          Kaggle - Titanic의 승객 데이터를 통한 Classification 문제 해결 & 여러 머신러닝 기법 적용
-          - 목차 : PART 1 ~ PART 5
+        텍스트 마이닝을 이용한 2020년 한국 총선 분석
+          - **Technology :** Web crawling │ Frequency analysis │ Sentiment Analysis │ Related words Analysis | Topic modeling
+          - **Library :** Konlpy │ Beautiful soap │ Selenium │ Pandas │ Numpy | Matploblib
     
       - title: "Kaggle - Titanic : [PART 1] 생존자 예측 모델 생성"
         link: "https://romanticq.github.io/%EC%BA%90%EA%B8%80/kaggle-titanic/"
         details : |
-          승객들의 신상정보 데이터를 기반으로 scikit-learn을 통해 생존자 예측 모델 생성
-          - <strong>Technology :</strong> Decision Tree
-          - <strong>Library :</strong> Pandas │ Scikit-learn │ Numpy │ Matplotbib │ seaborn
-          ___
+          타이타닉 승객들의 신상정보 데이터를 기반으로 scikit-learn을 통해 생존자 예측 모델 생성
+          - **Technology :** Decision Tree
+          - **Library :** Pandas │ Scikit-learn │ Numpy │ Matplotbib │ Seaborn
         
       - title: "Kaggle - Titanic : [PART 2] 하이퍼 파라미터 튜닝"
         link: "https://romanticq.github.io/%EC%BA%90%EA%B8%80/kaggle-titanic2/"
         details : |
           scikit-learn을 통해 생성한 모델의 하이퍼 파라미터 튜닝 방법 정리
-          - <strong>Technology :</strong> Decision Tree │ Min-Max scaling │ Standardization │ Regularization │ Correlation coefficient
-          - <strong>Library :</strong> Pandas │ Scikit-learn │ Numpy │ Matplotbib
+          - **Technology :** Decision Tree │ Min-Max scaling │ Standardization │ Regularization │ Correlation coefficient
+          - **Library :** Pandas │ Scikit-learn │ Numpy │ Matplotbib
           
         
       - title: "Kaggle - Titanic : [PART 3] 핸즈온 머신러닝 chap2"
         link: "https://romanticq.github.io/%EC%BA%90%EA%B8%80/handson-chap2-titanic/"
         details: |
           핸즈온 머신러닝 챕터2 순서에 맞춰 캐글-타이타닉 문제 재구성
-          - <strong>Technology :</strong> min-max scaling / standardization / one-hot encoding / k-fold cross-validation / ROC Curve
-          - <strong>Library :</strong> Pandas / Scikit-learn / Numpy / Matplotbib
+          - **Technology :** min-max scaling │ standardization │ one-hot encoding │ k-fold cross-validation │ ROC Curve
+          - **Library :** Pandas │ Scikit-learn │ Numpy │ Matplotbib
         
       - title: "Kaggle - Titanic : [PART 4] 핸즈온 머신러닝 chap6"
         link: "https://romanticq.github.io/%EC%BA%90%EA%B8%80/handson-chap6-titanic/"
         details: |
           핸즈온 머신러닝 챕터6 순서에 맞춰 캐글-타이타닉 문제 재구성
-          - **Technology :** Decision Tree | CART | regularization | Visualization
-          - **Library :** Pandas | Scikit-learn | Numpy | Graphviz
+          - **Technology :** Decision Tree │ CART │ regularization │ Visualization
+          - **Library :** Pandas │ Scikit-learn │ Numpy │ Graphviz
         
       - title: "Kaggle - Titanic : [PART 5] 핸즈온 머신러닝 chap7"
         link: "https://romanticq.github.io/%EC%BA%90%EA%B8%80/handson-chap7-titanic/"
-        tagline: "voting | bagging & pasting | Random Forest | boosting"
+        details: |
+          핸즈온 머신러닝 챕터7 순서에 맞춰 캐글-타이타닉 문제 재구성
+          - **Technology :** : voting │ bagging & pasting │ Random Forest │ boosting
+          - **Library :** Pandas │ Scikit-learn │ Numpy │ Matplotbib
         
       - title: "Text Mining 1 : 데이터 전처리"
         link: "https://romanticq.github.io/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/text-data/"
-        tagline: "Regular Expression | stopwords | stemming | N-gram"        
+        tagline: "Regular Expression │ stopwords │ stemming │ N-gram"        
         
       - title: "Text Mining 2 : 빈도분석, 군집분석, 토픽 모델링"
         link: "https://romanticq.github.io/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/text-mining-tech/"
-        tagline: "Frequency Analysis | Clustering | Topic Modeling(LDA)"                
+        tagline: "Frequency Analysis │ Clustering │ Topic Modeling(LDA)"                
         
       - title: "Text Mining 3 : 감성분석"
         link: "https://romanticq.github.io/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/text-mining-tech2/"
@@ -131,33 +134,25 @@ projects:
       - title: "Text Mining 4 : 연관어분석"
         link: "https://romanticq.github.io/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/text-mining-tech3/"
         tagline: "Related words Analysis"                                
-      
-      - title: "Analysis of the 2020 Korean General Election Using Text Mining Techniques(텍스트 마이닝을 이용한 2020년 한국 총선 분석)"
-        link: "#"
-        tagline: "2021년 RISS 게재"
 
 
 publications:
     title: Publications
     intro: |
     papers:
-      - title: Kaggle - Titanic
-        link: "https://romanticq.github.io/categories/#%EC%BA%90%EA%B8%80"
-        authors:
-        details: |
-          Kaggle - Titanic의 승객 데이터를 통한 Classification 문제 해결 & 여러 머신러닝 기법 적용
-            - tech
-            - library
+      - title: Text Mining : 감성분석
+        link: "https://romanticq.github.io/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/text-mining-tech2/"
         
-        
-      - title: Kaggle - Titanic
-        link: "https://romanticq.github.io/categories/#%EC%BA%90%EA%B8%80"
+      - title: Text Mining : 빈도분석, 군집분석, 토픽 모델링
+        link: "https://romanticq.github.io/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/text-mining-tech/"
         authors:
         conference:
-      
-      - title: 텍스트마이닝 기법을 이용한 21대 한국 총선 관련 이슈파악 및 후보자 득표율 예측
-        link: "https://github.com/romanticq/MSpaper"
 
+      - title: Text Mining : 연관어분석
+        link: "https://romanticq.github.io/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/text-mining-tech3/"
+        
+      - title: Text Mining : 데이터 전처리
+        link: "https://romanticq.github.io/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/text-data/"
 
 
 
