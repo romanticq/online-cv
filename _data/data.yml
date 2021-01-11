@@ -27,6 +27,7 @@ sidebar:
 
     languages:
       - idiom: Python
+      - item : Python, Wolfram mathmatica
 
     interests:
       - item: 자연어처리 │ TensorFlow │ Pytorch
@@ -142,30 +143,30 @@ publications:
 
 
 
-skills:
-    title: Skills &amp; Proficiency
+# skills:
+#     title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Pandas
-        level: 80%
+#     toolset:
+#       - name: Pandas
+#         level: 80%
         
-      - name: Scikit-learn
-        level: 70%        
+#       - name: Scikit-learn
+#         level: 70%        
         
-      - name: Matplotlib
-        level: 70%        
+#       - name: Matplotlib
+#         level: 70%        
         
-      - name: Gensim
-        level: 60%        
+#       - name: Gensim
+#         level: 60%        
         
-      - name: Nltk
-        level: 60%      
+#       - name: Nltk
+#         level: 60%      
 
-      - name: Microsoft Excel
-        level: 90%
+#       - name: Microsoft Excel
+#         level: 90%
         
-      - name: Wolfram Mathematica
-        level: 80%
+#       - name: Wolfram Mathematica
+#         level: 80%
 
 
 footer: >
